@@ -8,6 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')
     print("This is a test for git to teach new programmers how to use git")# Press ⌘F8 to toggle the breakpoint.
+    print("Test done by ME :)")
 
 
 # Press the green button in the gutter to run the script.
